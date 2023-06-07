@@ -1,4 +1,4 @@
-nome = 'Lucas Corrêa'
+nome = 'Lucas'
 peso = 110.0
 altura = 1.80
 imc = peso / (altura ** 2)
