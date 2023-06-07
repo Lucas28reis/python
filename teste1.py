@@ -1,7 +1,7 @@
 import datetime
 
 nome =  'Lucas'
-sobrenome = 'Corrêa dos Reis'
+sobrenome = 'Dos Santos'
 idade = 18
 currentDateTime = datetime.datetime.now()
 date = currentDateTime.date()
